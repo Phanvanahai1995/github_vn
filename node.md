@@ -15,3 +15,5 @@ Repository (Repo)
 - git checkout {branch name}: Quay lại thời điểm hiện tại
 - git branch
 - git checkout -b {branch name}: Tạo nhánh mới
+- git merge {branch name}: Gộp nhánh (git checkout master, đứng từ nhánh master để gộp lại)
+- git branch -d {branch name}
