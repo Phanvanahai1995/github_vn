@@ -7,6 +7,8 @@
 - Repository (Repo)
 - Branch: Nhánh
 - Conflict: Xung đột
+- Local
+- Remote
 
 # Commands
 
@@ -23,3 +25,4 @@
 - git checkout -b {branch name}: Tạo nhánh mới
 - git merge {branch name}: Gộp nhánh (git checkout master, đứng từ nhánh master để gộp lại)
 - git branch -d {branch name}
+- git push {url repo} {branch}
